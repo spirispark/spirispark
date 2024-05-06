@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitispark
+- 👋 Hi, I’m @spirispark
 - 👀 I’m interested in Web3 & AI
 - 🌱 I’m currently learning Blockchain dev
 - 💞️ I’m looking to collaborate on building dApps
