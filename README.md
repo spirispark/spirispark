@@ -1,6 +1,6 @@
-Head of Marketing @ TCL Global
-Helping CXOs with Systems, AI, and Marketing
-Book an appointment - calendly.com/spirispark/30min
+📌 | Head of Marketing @ TCL Global
+📌 | Helping CXOs with Systems, AI, and Marketing
+📌 | Book an appointment - calendly.com/spirispark/30min
 
 <!---
 gitispark/gitispark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
