@@ -36,27 +36,27 @@
 
 ## 📈 What the last 9+ years shipped
 
-<sub><i>Each row is a public Upwork engagement. Numbers come from the profile.</i></sub>
+<sub><i>Results listed on my Upwork profile. Numbers are mine, not estimates.</i></sub>
 
 <table>
   <thead>
     <tr>
       <th align="left">Brand</th>
-      <th align="left">What we did together</th>
       <th align="right">Result</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>Praava Health</b></td><td>Senior Manager, Digital Marketing · CAC &amp; LTV attribution</td><td align="right"><b>BDT 6.67M</b> MRR</td></tr>
-    <tr><td><b>ASUS Zenfone</b></td><td>Performance creative &amp; media buying</td><td align="right"><b>1.3M</b> views</td></tr>
-    <tr><td><b>IFAD Autos</b></td><td>Lead-gen funnel for commercial vehicles</td><td align="right"><b>150+</b> vehicles sold</td></tr>
-    <tr><td><b>Pickaboo</b></td><td>E-commerce paid social + retargeting</td><td align="right"><b>20,000+</b> phones sold</td></tr>
-    <tr><td><b>DBL Ceramics</b></td><td>B2C funnel for premium tiles</td><td align="right"><b>1M+</b> sq ft sold</td></tr>
-    <tr><td><b>GAIN</b></td><td>Pledge-driving campaign at scale</td><td align="right"><b>1.02M+</b> pledges</td></tr>
-    <tr><td><b>TECNO Mobile</b></td><td>Launch creative + search capture</td><td align="right"><b>300%</b> search lift in 3 days</td></tr>
-    <tr><td><b>Concord Real Estate</b></td><td>Qualified-lead engine</td><td align="right"><b>1,000+</b> leads</td></tr>
-    <tr><td><b>Anglo Eastern Glass</b></td><td>B2B demand-gen</td><td align="right"><b>117,000 m³</b> sold</td></tr>
-    <tr><td><b>MACES</b></td><td>Education-fair footfall driver</td><td align="right"><b>1,700+</b> footfall</td></tr>
+    <tr><td><b>Praava Health</b></td><td align="right"><b>BDT 6.67M</b> MRR</td></tr>
+    <tr><td><b>ASUS Zenfone</b></td><td align="right"><b>1.3M</b> views</td></tr>
+    <tr><td><b>IFAD Autos</b></td><td align="right"><b>150+</b> commercial vehicles sold</td></tr>
+    <tr><td><b>Pickaboo</b></td><td align="right"><b>20,000+</b> phones sold</td></tr>
+    <tr><td><b>DBL Ceramics</b></td><td align="right"><b>1M+</b> sq ft of tiles sold</td></tr>
+    <tr><td><b>GAIN</b></td><td align="right"><b>1.02M+</b> pledges</td></tr>
+    <tr><td><b>TECNO Mobile</b></td><td align="right"><b>300%</b> search volume lift in 3 days</td></tr>
+    <tr><td><b>TECNO Mobile</b></td><td align="right"><b>1M+</b> views on a short film</td></tr>
+    <tr><td><b>Concord Real Estate</b></td><td align="right"><b>1,000+</b> qualified leads</td></tr>
+    <tr><td><b>Anglo Eastern Glass</b></td><td align="right"><b>117,000 m³</b> sold</td></tr>
+    <tr><td><b>MACES</b></td><td align="right"><b>1,700+</b> footfall to education fair</td></tr>
   </tbody>
 </table>
 
