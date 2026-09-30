@@ -74,7 +74,7 @@
   <tbody>
     <tr>
       <td><b>Performance Marketing &amp; Media Buying</b><br><sub>Meta · Google · TikTok · LinkedIn · Programmatic · Retargeting · App-install</sub></td>
-      <td>20–50% CAC reductions and 5–30% revenue lifts, sustained quarter over quarter. Disciplined buying on the channels your customers actually live on — not the trendiest one.</td>
+      <td>20–50% CAC reductions and 5–30% revenue lifts. Disciplined buying on the channels your customers actually live on — not the trendiest one.</td>
     </tr>
     <tr>
       <td><b>Marketing Operations &amp; Attribution</b><br><sub>GA4 · CleverTap · Sheets · SyncWith</sub></td>
@@ -182,8 +182,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/phiora-card.svg">
   <img src="./assets/phiora-card-light.svg" alt="PhiOra — self-hosted AI infrastructure for businesses" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </picture>
-
-<sub><i>Side hobby that's sharpened my systems brain for years: an internationally rated FIDE chess player.</i></sub>
 
 <br/>
 
