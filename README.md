@@ -204,7 +204,6 @@ The fastest path is a **scoped engagement on Upwork**: clear deliverable, milest
 <br/>
 
 <a href="https://github.com/spirispark"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=More+work+on+GitHub" alt="GitHub"></a>
-&nbsp;<a href="https://twitter.com/spirispark"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=%40spirispark" alt="Twitter"></a>
 
 </div>
 
