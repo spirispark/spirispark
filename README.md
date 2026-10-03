@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
-  <img src="./assets/banner-light.svg" alt="Rakib — AI-Native Marketing Operator · 9+ years · $1M+ ad spend · 1K+ n8n automations" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+  <img src="./assets/banner-light.svg" alt="Rakib — AI-Native Marketing Operator · 10+ years · 20–50% CAC reductions · 5–30% revenue lifts" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </picture>
 
 <br/>
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 📈 What the last 9+ years shipped
+## 📈 What the last 10+ years shipped
 
 <sub><i>Results listed on my Upwork profile. Numbers are mine, not estimates.</i></sub>
 
@@ -46,7 +46,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>Praava Health</b></td><td align="right"><b>BDT 6.67M</b> MRR</td></tr>
+    <tr><td><b>Praava Health</b></td><td align="right"><b>$54.26K+</b> MRR</td></tr>
     <tr><td><b>ASUS Zenfone</b></td><td align="right"><b>1.3M</b> views</td></tr>
     <tr><td><b>IFAD Autos</b></td><td align="right"><b>150+</b> commercial vehicles sold</td></tr>
     <tr><td><b>Pickaboo</b></td><td align="right"><b>20,000+</b> phones sold</td></tr>
@@ -56,6 +56,10 @@
     <tr><td><b>TECNO Mobile</b></td><td align="right"><b>1M+</b> views on a short film</td></tr>
     <tr><td><b>Concord Real Estate</b></td><td align="right"><b>1,000+</b> qualified leads</td></tr>
     <tr><td><b>Anglo Eastern Glass</b></td><td align="right"><b>117,000 m³</b> sold</td></tr>
+    <tr><td><b>LaserTreat</b></td><td align="right"><b>30,000+</b> patients acquired</td></tr>
+    <tr><td><b>Dhaka Dermatology Institute</b></td><td align="right"><b>10,000+</b> patients acquired</td></tr>
+    <tr><td><b>DHI Bangladesh</b></td><td align="right"><b>20,000+</b> patients acquired (with DHI International)</td></tr>
+    <tr><td><b>Clinic21</b></td><td align="right"><b>100+</b> patients acquired</td></tr>
     <tr><td><b>MACES</b></td><td align="right"><b>1,700+</b> footfall to education fair</td></tr>
   </tbody>
 </table>
@@ -82,7 +86,7 @@
     </tr>
     <tr>
       <td><b>Automation &amp; AI Workflows</b><br><sub>n8n · Zapier · Claude Code · OpenAI Codex · Generative AI</sub></td>
-      <td>1,000+ n8n automations shipped to date. Lead routing, creative testing, reporting pipelines, AI-assisted research and ops — engineered to free your team for the work only humans can do.</td>
+      <td>Lead routing, creative testing, reporting pipelines, AI-assisted research and ops — engineered to free your team for the work only humans can do.</td>
     </tr>
     <tr>
       <td><b>Funnel &amp; Landing-Page Build</b><br><sub>ClickFunnels · Shopify · WordPress · Mailchimp · AWeber</sub></td>
@@ -173,6 +177,10 @@
 | **Apr 2025 → Present** | Head of Department, **Global Marketing** | **TCL Global** — 35-member team, 21 branches, 14+ countries |
 | **Nov 2023 → Mar 2025** | Head of Department, Digital Marketing | **LaserTreat** — 12-member team, $45–50K/mo ad spend |
 | **Mar 2022 → Oct 2023** | Senior Manager, Digital Marketing | **Praava Health** — 30-member marketing + 9-member telemarketing team |
+| **Jul 2021 → Feb 2022** | Manager, Digital Marketing | **WebAble Digital** — 20-member team; Apex, GAIN, Suzuki |
+| **Jan 2020 → Jun 2021** | Assistant Manager, Digital Marketing | **WebAble Digital** — IFAD Autos, MACES, ActionAid BD |
+| **Jan 2019 → Dec 2019** | Senior Executive, Digital Marketing | **WebAble Digital** — Paid media planning & reporting |
+| **Mar 2017 → Dec 2018** | Executive, Business Development | **WebAble Digital** — Local & B2B SaaS upsell |
 
 <br/>
 
