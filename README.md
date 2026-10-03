@@ -186,6 +186,15 @@
 
 ## 🏗️ Currently building
 
+<sub><b>Last 365 days — regenerated nightly.</b></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spirispark/spirispark/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/spirispark/spirispark/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph — last 365 days" />
+</picture>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/phiora-card.svg">
   <img src="./assets/phiora-card-light.svg" alt="PhiOra — self-hosted AI infrastructure for businesses" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
