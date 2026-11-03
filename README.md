@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8"><img src="https://img.shields.io/badge/-14A800?style=for-the-badge&logo=upwork&logoColor=white&label=Hire+me+on+Upwork" alt="Hire me on Upwork"></a>
+<a href="https://www.linkedin.com/in/spirispark"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect+with+me+on+LinkedIn" alt="Connect with me on LinkedIn"></a>
 
 <br/><br/>
 
@@ -212,13 +212,9 @@ The fastest path is a **scoped engagement on Upwork**: clear deliverable, milest
 
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8"><img src="https://img.shields.io/badge/-14A800?style=for-the-badge&logo=upwork&logoColor=white&label=Hire+me+on+Upwork" alt="Hire me on Upwork"></a>
+<a href="https://wa.me/8801676494107"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Send+me+a+DM+on+WhatsApp" alt="Send me a DM on WhatsApp"></a>
 
 <br/><br/>
-
-<b><a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8">upwork.com/freelancers/~01ef8c393a849e8bb8</a></b>
-
-<br/>
 
 <a href="https://github.com/spirispark"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=More+work+on+GitHub" alt="GitHub"></a>
 
