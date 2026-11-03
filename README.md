@@ -1,8 +1,9 @@
 <!--
   Hello, recruiter / founder / CMO 👋
-  Everything on this page is sourced from the public Upwork profile and
-  this GitHub account. Every claim carries a number; every CTA links to
-  a public destination. If something feels off, ping me on Upwork.
+  Everything on this page is sourced from this GitHub account and my
+  public profiles. Every claim carries a number; every CTA links to a
+  public destination. If something feels off, message me on LinkedIn or
+  WhatsApp.
 -->
 
 <picture>
@@ -36,7 +37,7 @@
 
 ## 📈 What the last 10+ years shipped
 
-<sub><i>Results listed on my Upwork profile. Numbers are mine, not estimates.</i></sub>
+<sub><i>Numbers are mine, not estimates.</i></sub>
 
 <table>
   <thead>
