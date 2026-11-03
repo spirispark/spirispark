@@ -208,7 +208,7 @@
 
 If your CAC is creeping up, your attribution is fuzzy, your team is buried in manual work, or growth has plateaued — I can help.
 
-The fastest path is a **scoped engagement on Upwork**: clear deliverable, milestones, and a single owner.
+The fastest path is a quick DM on WhatsApp: tell me where growth is stuck and I'll reply with a scoped plan.
 
 <div align="center">
 
