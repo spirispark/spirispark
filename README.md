@@ -1,8 +1,9 @@
 <!--
   Hello, recruiter / founder / CMO 👋
-  Everything on this page is sourced from the public Upwork profile and
-  this GitHub account. Every claim carries a number; every CTA links to
-  a public destination. If something feels off, ping me on Upwork.
+  Everything on this page is sourced from this GitHub account and my
+  public profiles. Every claim carries a number; every CTA links to a
+  public destination. If something feels off, message me on LinkedIn or
+  WhatsApp.
 -->
 
 <picture>
@@ -20,7 +21,7 @@
 
 <br/>
 
-<a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8"><img src="https://img.shields.io/badge/-14A800?style=for-the-badge&logo=upwork&logoColor=white&label=Hire+me+on+Upwork" alt="Hire me on Upwork"></a>
+<a href="https://www.linkedin.com/in/spirispark"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect+with+me+on+LinkedIn" alt="Connect with me on LinkedIn"></a>
 
 <br/><br/>
 
@@ -36,7 +37,7 @@
 
 ## 📈 What the last 10+ years shipped
 
-<sub><i>Results listed on my Upwork profile. Numbers are mine, not estimates.</i></sub>
+<sub><i>Numbers are mine, not estimates.</i></sub>
 
 <table>
   <thead>
@@ -208,17 +209,13 @@
 
 If your CAC is creeping up, your attribution is fuzzy, your team is buried in manual work, or growth has plateaued — I can help.
 
-The fastest path is a **scoped engagement on Upwork**: clear deliverable, milestones, and a single owner.
+The fastest path is a quick DM on WhatsApp: tell me where growth is stuck and I'll reply with a scoped plan.
 
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8"><img src="https://img.shields.io/badge/-14A800?style=for-the-badge&logo=upwork&logoColor=white&label=Hire+me+on+Upwork" alt="Hire me on Upwork"></a>
+<a href="https://wa.me/8801676494107"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Send+me+a+DM+on+WhatsApp" alt="Send me a DM on WhatsApp"></a>
 
 <br/><br/>
-
-<b><a href="https://www.upwork.com/freelancers/~01ef8c393a849e8bb8">upwork.com/freelancers/~01ef8c393a849e8bb8</a></b>
-
-<br/>
 
 <a href="https://github.com/spirispark"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=More+work+on+GitHub" alt="GitHub"></a>
 
