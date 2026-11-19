@@ -20,7 +20,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ci-linux
     timeout-minutes: 5
     permissions:
       contents: write
