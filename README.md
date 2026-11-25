@@ -228,7 +228,6 @@ The fastest path is a quick DM on WhatsApp: tell me where growth is stuck and I'
 
 <a href="https://wa.me/8801676494107"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Send+me+a+DM+on+WhatsApp" alt="Send me a DM on WhatsApp"></a>
 
-
 </div>
 
 <br/>
