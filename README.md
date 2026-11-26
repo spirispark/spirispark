@@ -8,16 +8,18 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
-  <img src="./assets/banner-light.svg" alt="Rakib — AI-Native Marketing Operator · 10+ years · 20–50% CAC reductions · 5–30% revenue lifts" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+  <img src="./assets/banner-light.svg" alt="Rakib Hasan — Head of Department, Global Operations at PhiOra · 10+ years in marketing" width="1280" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </picture>
 
 <br/>
 
 <div align="center">
 
-# Hi, I'm **Rakib** 👋
+# Hi, I'm **Rakib Hasan** 👋
 
-### I help CEOs, CMOs, and founders turn marketing into a **measurable, accountable, cheaper-to-run** system — not a creative guessing game.
+### Head of Department, Global Operations at **PhiOra** — building self-hosted, AI-native growth systems.
+
+Marketing leader with **10+ years** running paid media, SEO, lead generation, e-commerce funnels, and lifecycle programs across agency, startup, and group settings. I build the attribution and CPL / CPA discipline that connects spend to revenue.
 
 <br/>
 
@@ -27,17 +29,15 @@
 
 <sub>
 📍 <b>Dhaka, Bangladesh</b> &nbsp;·&nbsp;
-🌐 <b>EN</b> (Native / Bilingual) &nbsp;·&nbsp;
-♟️ Internationally rated <b>FIDE</b> chess player
+🌐 <b>Bengali</b> (native) · <b>English</b> (professional) &nbsp;·&nbsp;
+💼 Available remotely for international teams · Open to relocation with visa sponsorship
 </sub>
 
 </div>
 
 <br/>
 
-## 📈 What the last 10+ years shipped
-
-<sub><i>Numbers are mine, not estimates.</i></sub>
+## 📈 Selected results
 
 <table>
   <thead>
@@ -47,21 +47,23 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>Praava Health</b></td><td align="right"><b>$54.26K+</b> MRR</td></tr>
-    <tr><td><b>ASUS Zenfone</b></td><td align="right"><b>1.3M</b> views</td></tr>
-    <tr><td><b>IFAD Autos</b></td><td align="right"><b>150+</b> commercial vehicles sold</td></tr>
-    <tr><td><b>Pickaboo</b></td><td align="right"><b>20,000+</b> phones sold</td></tr>
-    <tr><td><b>DBL Ceramics</b></td><td align="right"><b>1M+</b> sq ft of tiles sold</td></tr>
-    <tr><td><b>GAIN</b></td><td align="right"><b>1.02M+</b> pledges</td></tr>
-    <tr><td><b>TECNO Mobile</b></td><td align="right"><b>300%</b> search volume lift in 3 days</td></tr>
-    <tr><td><b>TECNO Mobile</b></td><td align="right"><b>1M+</b> views on a short film</td></tr>
-    <tr><td><b>Concord Real Estate</b></td><td align="right"><b>1,000+</b> qualified leads</td></tr>
-    <tr><td><b>Anglo Eastern Glass</b></td><td align="right"><b>117,000 m³</b> sold</td></tr>
-    <tr><td><b>LaserTreat</b></td><td align="right"><b>30,000+</b> patients acquired</td></tr>
-    <tr><td><b>Dhaka Dermatology Institute</b></td><td align="right"><b>10,000+</b> patients acquired</td></tr>
-    <tr><td><b>DHI Bangladesh</b></td><td align="right"><b>20,000+</b> patients acquired (with DHI International)</td></tr>
-    <tr><td><b>Clinic21</b></td><td align="right"><b>100+</b> patients acquired</td></tr>
-    <tr><td><b>MACES</b></td><td align="right"><b>1,700+</b> footfall to education fair</td></tr>
+    <tr><td><b>TCL Global</b></td><td align="right">Doubled B2C revenue in <b>6 months</b>; <b>2</b> new regional branches launched in 8 months</td></tr>
+    <tr><td><b>LaserTreat</b></td><td align="right"><b>BDT 3.5–4 crore</b> monthly revenue on a USD 45K–50K monthly ad budget</td></tr>
+    <tr><td><b>LaserTreat</b></td><td align="right"><b>30K+</b> / <b>10K+</b> / <b>20K+</b> / <b>100+</b> patient acquisitions across 4 business lines</td></tr>
+    <tr><td><b>Praava Health</b></td><td align="right"><b>$54.26K+</b> MRR · <b>32K+</b> patient acquisitions</td></tr>
+    <tr><td><b>BRAC Bank</b></td><td align="right"><b>$7.57M</b> revenue in a 3-week Eid campaign · 2.3M reach</td></tr>
+    <tr><td><b>Pickaboo</b></td><td align="right"><b>20K+</b> phones sold through paid digital funnels</td></tr>
+    <tr><td><b>Apex Footwear</b></td><td align="right"><b>2,240+</b> units sold at ROAS <b>7.47</b></td></tr>
+    <tr><td><b>DBL Ceramics</b></td><td align="right"><b>1M+</b> sq ft of tiles sold online</td></tr>
+    <tr><td><b>IFAD Autos</b></td><td align="right"><b>150+</b> commercial vehicles sold online (≈ BDT 250M revenue)</td></tr>
+    <tr><td><b>Concord Real Estate</b></td><td align="right"><b>1K+</b> qualified leads</td></tr>
+    <tr><td><b>GAIN</b></td><td align="right"><b>1.02M+</b> pledges from adolescents</td></tr>
+    <tr><td><b>Anglo Eastern Glass</b></td><td align="right"><b>117K m³</b> of glass sold in Q1 (B2B)</td></tr>
+    <tr><td><b>TECNO Mobile</b></td><td align="right"><b>300%</b> search volume increase in 3 days · <b>1M+</b> views on an interactive short film</td></tr>
+    <tr><td><b>ASUS Zenfone Live</b></td><td align="right"><b>1.3M+</b> views</td></tr>
+    <tr><td><b>MACES</b></td><td align="right"><b>1,700+</b> footfalls and <b>700+</b> qualified leads for the International Education Expo</td></tr>
+    <tr><td><b>ActionAid Bangladesh</b></td><td align="right"><b>1.3M+</b> views on the 16 Days of Activism campaign video</td></tr>
+    <tr><td><b>PhiOra</b></td><td align="right">Client-reported: <b>80%</b> lower software costs at LaserTreat; <b>1,000+</b> hours saved per year at Elyze Aesthetic Clinic</td></tr>
   </tbody>
 </table>
 
@@ -78,20 +80,20 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Performance Marketing &amp; Media Buying</b><br><sub>Meta · Google · TikTok · LinkedIn · Programmatic · Retargeting · App-install</sub></td>
-      <td>20–50% CAC reductions and 5–30% revenue lifts. Disciplined buying on the channels your customers actually live on — not the trendiest one.</td>
+      <td><b>Paid Media &amp; Performance</b><br><sub>Meta · Google · LinkedIn</sub></td>
+      <td>Paid media run against weekly CPA / CPL benchmarks, with spend mapped back to CAC and LTV.</td>
     </tr>
     <tr>
-      <td><b>Marketing Operations &amp; Attribution</b><br><sub>GA4 · CleverTap · Sheets · SyncWith</sub></td>
-      <td>Honest attribution, dashboards that show where every dollar goes and what it returns, and CPAs / CPLs benchmarks your whole team can hold itself to.</td>
+      <td><b>Lead Gen, Funnels &amp; E-commerce CRO</b><br><sub>ClickFunnels · Shopify · WordPress</sub></td>
+      <td>Lead-gen systems and conversion funnels, plus booking and checkout flows run with funnel-level CRO discipline.</td>
     </tr>
     <tr>
-      <td><b>Automation &amp; AI Workflows</b><br><sub>n8n · Zapier · Claude Code · OpenAI Codex · Generative AI</sub></td>
-      <td>Lead routing, creative testing, reporting pipelines, AI-assisted research and ops — engineered to free your team for the work only humans can do.</td>
+      <td><b>Attribution &amp; Analytics</b><br><sub>Google Analytics · Looker Studio · Metabase · PostHog</sub></td>
+      <td>Advanced attribution models and reporting that connect spend to revenue.</td>
     </tr>
     <tr>
-      <td><b>Funnel &amp; Landing-Page Build</b><br><sub>ClickFunnels · Shopify · WordPress · Mailchimp · AWeber</sub></td>
-      <td>Conversion-driven landing pages, lead-gen and retargeting flows, and lifecycle messaging — wired end-to-end so attribution actually closes.</td>
+      <td><b>Automation &amp; AI Workflows</b><br><sub>Zapier · n8n · Claude Code · OpenAI Codex</sub></td>
+      <td>PhiOra's 90-day build-and-handover: 3 systems, 65 deliverables, and 18 open-source services on the client's own servers, then ownership passes to the client's team.</td>
     </tr>
   </tbody>
 </table>
@@ -106,6 +108,7 @@
   <img src="https://img.shields.io/badge/Suzuki-E60012?style=flat-square&logo=suzuki&logoColor=white" alt="Suzuki">
   <img src="https://img.shields.io/badge/Puma-A8211A?style=flat-square&logo=puma&logoColor=white" alt="Puma">
   <img src="https://img.shields.io/badge/TCL-000000?style=flat-square&logo=tcl&logoColor=white" alt="TCL Global">
+  <img src="https://img.shields.io/badge/BRAC_Bank-0072BC?style=flat-square&logoColor=white" alt="BRAC Bank">
   <img src="https://img.shields.io/badge/Praava_Health-0E7C7B?style=flat-square&logoColor=white" alt="Praava Health">
   <img src="https://img.shields.io/badge/British_Council-1D2D5C?style=flat-square&logo=britishcouncil&logoColor=white" alt="British Council">
   <img src="https://img.shields.io/badge/Dutch_Bangla_Bank-F26522?style=flat-square&logoColor=white" alt="Dutch Bangla Bank">
@@ -129,16 +132,16 @@
   <tr>
     <td valign="top" width="50%">
 
-**Ads &amp; Media**
+**Paid Media &amp; Social**
 
-`Meta Ads` · `Google Ads` · `Google Ad Manager` · `TikTok Ads` · `LinkedIn Campaign Manager` · `Programmatic Display` · `Affiliates` · `Retargeting` · `App-install`
+`Meta Ads` · `Google Ads` · `LinkedIn Ads` · `Revealbot` · `Meta Business Suite` · `Hootsuite` · `Buffer`
 
 </td>
     <td valign="top" width="50%">
 
-**Analytics, SEO &amp; Tracking**
+**Analytics &amp; Reporting**
 
-`Google Analytics` · `CleverTap` · `SEMrush` · `Ahrefs` · `Ubersuggest`
+`Google Analytics` · `Metabase` · `Mixpanel` · `PostHog` · `Looker Studio` · `Tableau`
 
 </td>
   </tr>
@@ -147,23 +150,30 @@
 
 **Automation &amp; AI**
 
-`n8n` · `Zapier` · `Claude Code` · `OpenAI Codex` · `Generative AI`
+`Zapier` · `n8n` · `Claude Code` · `OpenAI Codex` · `OpenClaw` · `Hermes Agent` · `Agent Zero`
 
 </td>
     <td valign="top">
 
-**CRM, Pages &amp; Lifecycle**
+**CRO, SEO &amp; Lifecycle**
 
-`ClickFunnels` · `Shopify` · `WordPress` · `Mailchimp` · `AWeber` · `Cold Email`
+`ClickFunnels` · `VWO` · `Google Optimize` · `Ubersuggest` · `SEMrush` · `Ahrefs` · `Mailchimp` · `Klaviyo` · `CleverTap`
 
 </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top">
 
-**Data &amp; Ops**
+**Commerce &amp; CMS**
 
-`Google Sheets` · `SyncWith` · `ClickUp` · `Notion` · `Trello`
+`Shopify` · `WordPress`
+
+</td>
+    <td valign="top">
+
+**CRM &amp; Project Tools**
+
+`HubSpot` · `Twenty` · `ClickUp` · `Notion` · `Trello`
 
 </td>
   </tr>
@@ -175,13 +185,16 @@
 
 | When | Role | Where |
 |---|---|---|
-| **Apr 2025 → Present** | Head of Department, **Global Marketing** | **TCL Global** — 35-member team, 21 branches, 14+ countries |
-| **Nov 2023 → Mar 2025** | Head of Department, Digital Marketing | **LaserTreat** — 12-member team, $45–50K/mo ad spend |
-| **Mar 2022 → Oct 2023** | Senior Manager, Digital Marketing | **Praava Health** — 30-member marketing + 9-member telemarketing team |
-| **Jul 2021 → Feb 2022** | Manager, Digital Marketing | **WebAble Digital** — 20-member team; Apex, GAIN, Suzuki |
-| **Jan 2020 → Jun 2021** | Assistant Manager, Digital Marketing | **WebAble Digital** — IFAD Autos, MACES, ActionAid BD |
-| **Jan 2019 → Dec 2019** | Senior Executive, Digital Marketing | **WebAble Digital** — Paid media planning & reporting |
-| **Mar 2017 → Dec 2018** | Executive, Business Development | **WebAble Digital** — Local & B2B SaaS upsell |
+| **Oct 2025 → Present** | Head of Department, **Global Operations** | **PhiOra** — AI-native growth partner for $10K+ MRR businesses; 90-day build-and-handover engagements |
+| **Apr 2025 → Sep 2025** | Head of Department, **Global Marketing** | **TCL Global** — 35-member team, 21 branches, 14+ countries; doubled B2C revenue in 6 months |
+| **Nov 2023 → Mar 2025** | Head of Department, Digital Marketing | **LaserTreat** — 12-member team, 4 business lines, USD 45–50K/mo ad spend |
+| **Mar 2022 → Oct 2023** | Senior Manager, Digital Marketing | **Praava Health** — 30-member marketing team incl. 9-member telemarketing; USD 35–40K/mo Meta + Google budget |
+| **Jul 2021 → Feb 2022** | Manager, Digital Marketing | **WebAble Digital** — 20-person team, 15+ corporate clients; Apex Footwear, GAIN, Suzuki, Concord |
+| **Jan 2020 → Jun 2021** | Assistant Manager, Digital Marketing | **WebAble Digital** — IFAD Autos, MACES, ActionAid Bangladesh |
+| **Jan 2019 → Dec 2019** | Senior Executive, Digital Marketing | **WebAble Digital** — Paid campaigns on Meta and Google: planning, billing, ROI tracking |
+| **Mar 2017 → Dec 2018** | Executive, Business Development | **WebAble Digital** — Upsold digital marketing and B2B SaaS to local clients |
+
+**Education:** BSc in Electrical & Electronic Engineering, BRAC University (2013–2016)
 
 <br/>
 
@@ -207,17 +220,13 @@
 
 ## 🤝 Let's talk
 
-If your CAC is creeping up, your attribution is fuzzy, your team is buried in manual work, or growth has plateaued — I can help.
+If your attribution is fuzzy, your CPL / CPA keeps drifting, your team is buried in manual work, or growth has plateaued — I can help.
 
-The fastest path is a quick DM on WhatsApp: tell me where growth is stuck and I'll reply with a scoped plan.
+The fastest path is a quick DM on WhatsApp: tell me where growth is stuck and I'll reply.
 
 <div align="center">
 
 <a href="https://wa.me/8801676494107"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Send+me+a+DM+on+WhatsApp" alt="Send me a DM on WhatsApp"></a>
-
-<br/><br/>
-
-<a href="https://github.com/spirispark"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=More+work+on+GitHub" alt="GitHub"></a>
 
 </div>
 
